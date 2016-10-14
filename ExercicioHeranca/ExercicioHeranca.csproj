@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Boxeador.cs" />
+    <Compile Include="Habilidade.cs" />
+    <Compile Include="Luta.cs" />
+    <Compile Include="Lutador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
